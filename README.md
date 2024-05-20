@@ -1,2 +1,7 @@
 # form-validation
-By using HTML5,CSS3 and JAVASCRIPT I made a modern form that has validation.
+This project includes a form designed using HTML, CSS, and JavaScript. 
+
+Features :
+- Contains both login and signup forms
+- Responsive design for various screen sizes
+- Validation to ensure correct inputs
